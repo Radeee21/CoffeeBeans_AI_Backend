@@ -4,7 +4,7 @@
 
 ---
 
-# CoffeeBeanAI
+# CoffeeBean AI Backend-python
 
 A comprehensive machine learning system for coffee bean analysis, featuring both image classification and tabular data prediction capabilities.
 
