@@ -1,0 +1,73 @@
+{
+  "Defect Name": {
+    "0": "Black Beans",
+    "1": "Cracked Beans",
+    "2": "Moldy Beans",
+    "3": "Re-wetted Beans",
+    "4": "Sour Beans"
+  },
+  "Category": {
+    "0": "Environmental",
+    "1": "Fermentation",
+    "2": "Fungal",
+    "3": "Physical"
+  },
+  "Cause/Condition": {
+    "0": "Beans reabsorbed moisture from rain/mist",
+    "1": "Overdrying or rough handling",
+    "2": "Overfermentation or delayed drying",
+    "3": "Prolonged soaking or slow drying",
+    "4": "Stored damp or dried in humid weather"
+  },
+  "Impact on Bean Quality": {
+    "0": "Bitter or burnt flavor, downgraded quality",
+    "1": "Inconsistent roast, lower grade",
+    "2": "Mold toxins, unfit for consumption",
+    "3": "Musty or sour taste, fungus risk",
+    "4": "Sour cup profile, rejected in cupping"
+  },
+  "Region in Sri Lanka": {
+    "0": "Badulla",
+    "1": "Hill Country",
+    "2": "Kandy",
+    "3": "Matale",
+    "4": "Nuwara Eliya",
+    "5": "Uva"
+  },
+  "Dehydration Duration": {
+    "0": "0-4 days",
+    "1": "10+ days",
+    "2": "4-7 days",
+    "3": "7-10 days"
+  },
+  "Caught Rain/Mist": {
+    "0": "0",
+    "1": "1"
+  },
+  "Defect-Symptom ": {
+    "0": "Resoaked appearance, Peeling parchment, Visible moisture bubbles",
+    "1": "Musty smell, Wrinkled shell, Heavy moisture feel",
+    "2": "Damp odor, Loss of firmness, Internal discoloration",
+    "3": "Rubbery texture, Color unevenness, Soft and damp interior",
+    "4": "Sticky to touch, Darkened patches, Swollen appearance",
+    "5": "Rotten fruit odor, Soft mass texture, Color fading at tips",
+    "6": "Acidic aroma, Wrinkled outer surface, Uneven color",
+    "7": "Vinegar-like smell, Sticky mucilage remnants, Brownish surface tint",
+    "8": "Sour or fermented odor, Soft outer layer, Discoloration near center cut",
+    "9": "Fruity sourness, Slimy feel, Translucent center",
+    "10": "Jagged breaks, Open seams, Lightweight texture",
+    "11": "Hairline fractures, Indentations, Flaky edges",
+    "12": "Splitting down middle, Irregular bean halves, Rough texture",
+    "13": "Long surface cracks, Exposed inner cotyledon, Dry feel",
+    "14": "Angular cracks, Visible stress lines, Brittle edges",
+    "15": "Deep black shade, Shriveled appearance, Dry cracking sound",
+    "16": "Chalky black tone, Dense bean body, Ash-like odor",
+    "17": "Uniform black surface, Tough to break, Scorched taste",
+    "18": "Oily outer coat, Carbonized tips, Dull finish",
+    "19": "Greenish specks, Powdery surface, Earthy odor",
+    "20": "Black mold patches, Softening surface, Mildewy aroma",
+    "21": "Blue mold spots, Sticky to touch, Stale or moldy smell",
+    "22": "Spore clusters, Sticky appearance, Unpleasant smell",
+    "23": "White or gray fuzzy growth, Musty smell, Slimy texture"
+  }
+}

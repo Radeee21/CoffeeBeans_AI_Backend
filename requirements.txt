@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Pillow
+torch
+transformers
+torchvision
+numpy
+scikit-learn
+pandas
+joblib
